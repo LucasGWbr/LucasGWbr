@@ -42,7 +42,7 @@ Aqui estão as tecnologias que utilizo no meu dia a dia e nos meus projetos:
 ### 📫 Contato
 Vamos nos conectar!
 
-<a href="www.linkedin.com/in/lucasgweber" target="_blank">
+<a href="https://www.linkedin.com/in/lucasgweber" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
 <a href="mailto:lucas.weber1@universo.univates.br">
