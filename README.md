@@ -1,6 +1,6 @@
 # Oi, eu sou o Lucas! 👋
 
-Tenho 18 anos, sou de Teutônia/RS e estou no começo da minha jornada como desenvolvedor de software. Atualmente curso Análise e Desenvolvimento de Sistemas na Univates enquanto trabalho como Auxiliar de TI no Hospital Ouro Branco — o que me ajuda a enxergar tecnologia de um jeito mais prático e conectado com o mundo real.
+Tenho 21 anos, sou de Teutônia/RS e estou no começo da minha jornada como desenvolvedor de software. Atualmente curso Engenharia de Software na Univates enquanto trabalho como Auxiliar de TI no Hospital Ouro Branco.
 
 Gosto de resolver problemas, aprender rápido e transformar ideias em código. Um dos projetos que mais me orgulho até agora foi um sistema de frente de caixa que desenvolvi do zero com Java e PostgreSQL.
 
