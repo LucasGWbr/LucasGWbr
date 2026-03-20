@@ -1,50 +1,35 @@
-# Olá, eu sou o Lucas! 👋
+# Oi, eu sou o Lucas! 👋
 
-### 🚀 Sobre mim
-Sou estudante de **Engenharia de Software** e atualmente trabalho como Assistente de TI, focado em resolver problemas complexos e otimizar processos. Tenho paixão por **Backend**, **Infraestrutura** e **Open Source**.
+Tenho 18 anos, sou de Teutônia/RS e estou no começo da minha jornada como desenvolvedor de software. Atualmente curso Análise e Desenvolvimento de Sistemas na Univates enquanto trabalho como Auxiliar de TI no Hospital Ouro Branco — o que me ajuda a enxergar tecnologia de um jeito mais prático e conectado com o mundo real.
 
-- 🔭 Atualmente estou trabalhando em projetos com **Java e Docker**.
-- 🌱 Estou aprofundando meus conhecimentos em **Arquitetura de Microsserviços** e **Cloud**.
-- 💬 Pergunte-me sobre **Java, Linux e Integrações de API**.
+Gosto de resolver problemas, aprender rápido e transformar ideias em código. Um dos projetos que mais me orgulho até agora foi um sistema de frente de caixa que desenvolvi do zero com Java e PostgreSQL.
 
 ---
 
-### 🛠️ Tech Stack
-Aqui estão as tecnologias que utilizo no meu dia a dia e nos meus projetos:
+## 🛠️ Tecnologias que uso
 
-**Linguagens & Frameworks:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div>
-
-**Banco de Dados & Infra:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📊 Meus stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGWbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGWbr&layout=compact&theme=dracula"/>
-</div>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasGWbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGWbr&layout=compact&langs_count=6&theme=tokyonight"/>
+</p>
 
 ---
 
-### 📫 Contato
-Vamos nos conectar!
+## 📬 Me encontra aqui
 
-<a href="https://www.linkedin.com/in/lucasgweber" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
-<a href="mailto:lucas.weber1@universo.univates.br">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasgweber)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.weber@sou.colegioteutonia.com.br)
